@@ -1,0 +1,1 @@
+# Myjam Node.js TSConfig
