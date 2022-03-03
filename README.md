@@ -5,7 +5,7 @@ The config file extends the Node.js active LTS release [TSConfig base](https://w
 
 ## Installation
 
-Add the package to `devDependencies`.
+Add the package to `package.json` file `devDependencies`.
 
 ```shell
 npm i --save-dev https://git@github.com/my-jam-store/node-tsconfig
