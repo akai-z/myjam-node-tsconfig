@@ -5,6 +5,7 @@
     "allowUnusedLabels": false,
     "alwaysStrict": true,
     "exactOptionalPropertyTypes": true,
+    "importsNotUsedAsValues": "error",
     "moduleResolution": "node",
     "newLine": "lf",
     "noImplicitAny": true,
