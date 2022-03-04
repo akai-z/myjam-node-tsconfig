@@ -3,6 +3,7 @@
   "compilerOptions": {
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
+    "alwaysStrict": true,
     "exactOptionalPropertyTypes": true,
     "moduleResolution": "node",
     "newLine": "lf",
