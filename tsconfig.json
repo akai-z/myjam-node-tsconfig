@@ -20,6 +20,5 @@
     "removeComments": true,
     "resolveJsonModule": true,
     "sourceMap": true
-  },
-  "exclude": ["node_modules"]
+  }
 }
