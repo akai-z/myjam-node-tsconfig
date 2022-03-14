@@ -7,8 +7,14 @@ The config file extends the Node.js LTS release [TSConfig base](https://www.npmj
 
 Add the package to `package.json` file `devDependencies`.
 
+#### npm
 ```shell
 npm i --save-dev https://git@github.com/my-jam-store/node-tsconfig
+```
+
+#### Yarn
+```shell
+yarn add --dev my-jam-store/node-tsconfig
 ```
 
 ## Usage
