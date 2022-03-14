@@ -1,4 +1,5 @@
 {
   "name": "@myjam/node-tsconfig",
+  "description": "A TSConfig that is used as a base for Myjam Node.js projects tsconfig.json files",
   "license": "MIT"
 }
