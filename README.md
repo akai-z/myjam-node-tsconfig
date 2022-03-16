@@ -3,6 +3,11 @@
 This is a TSConfig that is used as a base for Myjam Node.js projects `tsconfig.json` files.  
 The config file extends the Node.js LTS release [TSConfig base](https://www.npmjs.com/package/@tsconfig/node12).
 
+## Requirements
+
+- Node.js 12.
+- TypeScript 4.4 or higher.
+
 ## Installation
 
 Add the package to `package.json` file `devDependencies`.
