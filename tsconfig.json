@@ -3,12 +3,12 @@
   "compilerOptions": {
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
-    "alwaysStrict": true,
     "checkJs": true,
     "exactOptionalPropertyTypes": true,
     "importsNotUsedAsValues": "error",
     "moduleResolution": "node",
     "newLine": "lf",
+    "noEmitOnError": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitOverride": true,
     "noImplicitReturns": true,
