@@ -3,7 +3,6 @@
   "compilerOptions": {
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
-    "alwaysStrict": true,
     "checkJs": true,
     "exactOptionalPropertyTypes": true,
     "importsNotUsedAsValues": "error",
