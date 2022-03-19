@@ -27,9 +27,7 @@ yarn add --dev my-jam-store/node-tsconfig
 Extend the TSConfig base in `tsconfig.json` file.
 
 ```json
-{
-  "extends": "@myjam/node-tsconfig/tsconfig.json"
-}
+"extends": "@myjam/node-tsconfig/tsconfig.json"
 ```
 
 For more details about TSConfig bases, click [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#tsconfig-bases).
