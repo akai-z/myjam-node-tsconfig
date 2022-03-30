@@ -9,5 +9,5 @@
   "peerDependencies": {
     "typescript": ">=4.4"
   },
-  "repository": "github:my-jam-store/node-tsconfig"
+  "repository": "my-jam-store/node-tsconfig"
 }
