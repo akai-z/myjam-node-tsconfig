@@ -1,7 +1,7 @@
 {
   "name": "@myjam/node-tsconfig",
   "description": "A TSConfig that is used as a base for Myjam Node.js projects tsconfig.json files",
-  "version": "12.0.0",
+  "version": "14.0.0",
   "license": "MIT",
   "engines": {
     "node": "^14.0.0"
