@@ -5,7 +5,7 @@ The config file extends the Node.js LTS release [TSConfig base](https://www.npmj
 
 ## Requirements
 
-- Node.js 14.
+- Node.js 16.
 - TypeScript 4.4 or higher.
 
 ## Installation
