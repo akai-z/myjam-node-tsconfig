@@ -1,10 +1,10 @@
 {
   "name": "@myjam/node-tsconfig",
   "description": "A TSConfig that is used as a base for Myjam Node.js projects tsconfig.json files",
-  "version": "14.0.0",
+  "version": "16.0.0",
   "license": "MIT",
   "engines": {
-    "node": "^14.0.0"
+    "node": "^16.0.0"
   },
   "peerDependencies": {
     "typescript": ">=4.4"
