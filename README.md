@@ -14,12 +14,12 @@ Add the package to `package.json` file `devDependencies`.
 
 #### npm
 ```shell
-npm i --save-dev https://git@github.com/my-jam-store/node-tsconfig
+npm i --save-dev https://git@github.com/my-jam-store/node-tsconfig#node14
 ```
 
 #### Yarn
 ```shell
-yarn add --dev my-jam-store/node-tsconfig
+yarn add --dev my-jam-store/node-tsconfig#^14.0.0
 ```
 
 ## Usage
